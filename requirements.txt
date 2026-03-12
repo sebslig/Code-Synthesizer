@@ -1,0 +1,6 @@
+openai>=1.0.0
+python-dotenv
+pydantic>=2.0.0
+pytest
+black
+flake8
